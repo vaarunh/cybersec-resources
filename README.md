@@ -10,4 +10,4 @@
 
 |         | Name           | Link  | Type |
 | ------------- |:-------------:| -----:|-----:|
-| 1     | Hacking_Computer_Hacking_Security_Testing_Penetration_Testing | [Download](https://github.com/varunherlekar/cybersec-resources/blob/main/Networking/Networking_and_Kubernetes_A_Layered_Approach.epub) | PDF |
+| 1     | Networking_and_Kubernetes_A_Layered_Approach | [Download](https://github.com/varunherlekar/cybersec-resources/blob/main/Networking/Networking_and_Kubernetes_A_Layered_Approach.epub) | EPUB |
